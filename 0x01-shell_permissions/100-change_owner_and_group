@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vinCen[staff
+chown -R vincent staff
